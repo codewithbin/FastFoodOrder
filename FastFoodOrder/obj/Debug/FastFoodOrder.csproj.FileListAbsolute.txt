@@ -1,0 +1,10 @@
+D:\uni\sem4\NET\FastFoodOrder\FastFoodOrder\bin\Debug\FastFoodOrder.exe.config
+D:\uni\sem4\NET\FastFoodOrder\FastFoodOrder\bin\Debug\FastFoodOrder.exe
+D:\uni\sem4\NET\FastFoodOrder\FastFoodOrder\bin\Debug\FastFoodOrder.pdb
+D:\uni\sem4\NET\FastFoodOrder\FastFoodOrder\obj\Debug\FastFoodOrder.csproj.AssemblyReference.cache
+D:\uni\sem4\NET\FastFoodOrder\FastFoodOrder\obj\Debug\FastFoodOrder.Form1.resources
+D:\uni\sem4\NET\FastFoodOrder\FastFoodOrder\obj\Debug\FastFoodOrder.Properties.Resources.resources
+D:\uni\sem4\NET\FastFoodOrder\FastFoodOrder\obj\Debug\FastFoodOrder.csproj.GenerateResource.cache
+D:\uni\sem4\NET\FastFoodOrder\FastFoodOrder\obj\Debug\FastFoodOrder.csproj.CoreCompileInputs.cache
+D:\uni\sem4\NET\FastFoodOrder\FastFoodOrder\obj\Debug\FastFoodOrder.exe
+D:\uni\sem4\NET\FastFoodOrder\FastFoodOrder\obj\Debug\FastFoodOrder.pdb
